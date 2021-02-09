@@ -87,7 +87,7 @@ theme = "hugo-freelancer-theme"
 
 
     [params.footer]
-        copyright = "&copy; 2021 Jonas Hüsser. Powered by [Hugo](//gohugo.io)."
+        copyright = "&copy; 2020 Jonas Hüsser. Powered by [Hugo](//gohugo.io)."
 
         [params.footer.location]
             title = "Location"
