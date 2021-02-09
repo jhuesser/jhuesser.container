@@ -1,0 +1,8 @@
+modalID: 12
+title: Server Status
+date: 2020-01-01
+img: srvstatus.png
+client: Server Status Project
+clientLink: "https://github.com/server-status-project/server-status/"
+category: Open Source Project Contribution
+description: Very simple server status page written in PHP that can run on PHP 5.4+ - even on shared webhosting even without shell access.
